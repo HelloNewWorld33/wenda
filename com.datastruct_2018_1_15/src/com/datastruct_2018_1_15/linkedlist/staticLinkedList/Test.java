@@ -7,7 +7,7 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		StaticLinkedList<Apple>  stt=new StaticLinkedList<Apple>(10);
-		Apple a=new Apple("李");
+		Apple a=new Apple("李66");
 		stt.insert(a, 0);//2
 		stt.insert(new Apple("大"), 1);//3
 		stt.insert(new Apple("红"), 2);//4
